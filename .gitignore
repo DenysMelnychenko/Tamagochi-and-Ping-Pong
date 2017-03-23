@@ -1,0 +1,8 @@
+# Output
+out/
+bin/
+*.class
+
+# Intelij
+*.iml
+.idea
